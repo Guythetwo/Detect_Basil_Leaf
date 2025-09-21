@@ -1,1 +1,1 @@
-web: gunicorn app:Basil
+web: gunicorn app:app
